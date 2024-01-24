@@ -1,0 +1,14 @@
+{
+  "name": "jest_testaus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "severi hirvonen",
+  "license": "^29.7.0",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  } 
+}
