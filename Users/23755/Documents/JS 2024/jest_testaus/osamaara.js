@@ -1,4 +1,4 @@
-function osamaara (a, b) {
+function jako (a, b) {
     if (typeof a !== "number" || typeof b !== "number"){
         console.log("täytyy olla numero");
     } else if (b == 0){
